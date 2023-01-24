@@ -3,4 +3,4 @@ There is also a search functionality whereby displayed content changes as user t
 
 Designed using HTML, CSS and JavaScript.
 
-Link:
+Link: https://shubhpatel06.github.io/TV-Shows-Information-Display-JavaScript-API/
